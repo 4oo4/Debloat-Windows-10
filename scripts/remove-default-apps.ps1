@@ -19,6 +19,7 @@ $apps = @(
     "Microsoft.BingTranslator"
     "Microsoft.BingWeather"
     #"Microsoft.FreshPaint"
+    "Microsoft.GamingServices"
     "Microsoft.Microsoft3DViewer"
     "Microsoft.MicrosoftOfficeHub"
     "Microsoft.MicrosoftPowerBIForWindows"
@@ -46,6 +47,7 @@ $apps = @(
     "Microsoft.XboxGameOverlay"
     "Microsoft.XboxGamingOverlay"
     "Microsoft.XboxSpeechToTextOverlay"
+    "Microsoft.YourPhone"
     "Microsoft.ZuneMusic"
     "Microsoft.ZuneVideo"
 
